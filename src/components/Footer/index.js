@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div style={{ marginTop: "7rem" }}>
-      <p>Rates are based from 1 USD.</p>
+    <div>
+      <p>Rates are based on 1 USD.</p>
       <p>
         This application uses API from{" "}
         <a

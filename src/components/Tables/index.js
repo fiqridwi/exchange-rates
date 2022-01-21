@@ -4,7 +4,7 @@ import { Table } from "reactstrap";
 const Tables = ({ list }) => {
   return (
     <div>
-      <Table style={{ color: "white" }} borderless hover responsive>
+      <Table borderless hover responsive>
         <thead>
           <tr style={{ backgroundColor: "#086868" }}>
             <th>Currency</th>
