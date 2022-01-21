@@ -2,7 +2,7 @@
 
 This simple react website is showing some specific currency based on 1 USD. The API used in this web is from [CurrencyFreaks](https://currencyfreaks.com).
 
-### Build with :
+### Build with 
 - react v17
 - reacstrap
 
