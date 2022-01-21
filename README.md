@@ -1,4 +1,4 @@
-### Exchange Rates App
+## Exchange Rates App
 
 This simple react website is showing some specific currency based on 1 USD. The API used in this web is from https://currencyfreaks.com.
 
@@ -6,12 +6,12 @@ Build with :
 - react v17
 - reacstrap
 
-## Requirement
+### Requirement
 - Node.js
 - npm
   
 
-## Usage
+### Usage
 
 1. Clone the project
    
